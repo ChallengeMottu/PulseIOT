@@ -42,7 +42,7 @@ Para demonstrar como a captação do sinal dos Beacons funciona, realizamos uma 
 
 ## ▶️ Como Executar o Código Python?
 
-Para rodar o código de scanner dos Beacons, siga as instruções abaixo:
+Para rodar o código de scanner dos Beacons, execute o comando no terminal:
 
 ```bash
 python scanner.py
